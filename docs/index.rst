@@ -1,9 +1,8 @@
 .. meta::
-   :title: SSO ID - Login, Registration - Rajasthan SSO Portal Guide
    :description: Learn SSO ID meaning, benefits, and step-by-step registration process to access multiple government services with one secure login.
    :keywords: SSO ID, Single Sign-On, Rajasthan SSO, SSO login, SSO registration, SSO benefits, SSO India, SSO portal
 
-SSO ID: A Complete Guide to Single Sign-On in India
+SSO ID - Login, Registration - Rajasthan SSO Portal Guide
 ===================================================
 
 Introduction to SSO ID Login, Registration
