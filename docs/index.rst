@@ -17,8 +17,11 @@ for dozens of state services.
 .. raw:: html
 
    <a href="https://findfreehelp.com/sso-id-login/" 
-      style="background-color:#0066cc; color:white; padding:10px 20px; 
-      text-decoration:none; border-radius:5px; display:inline-block;">
+      style="background-color:#0066cc !important; color:#ffffff !important; 
+      padding:12px 24px !important; text-decoration:none !important; 
+      border-radius:6px !important; display:inline-block !important; 
+      font-weight:bold !important; font-size:15px !important;
+      border:none !important; cursor:pointer !important;">
       Click Here
    </a>
 
