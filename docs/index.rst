@@ -10,9 +10,14 @@ Introduction to SSO ID Login, Registration
 Managing multiple usernames and passwords can be frustrating. **SSO ID** 
 (Single Sign-On Identification) solves this problem by allowing users 
 to log in once and access multiple online services seamlessly. 
-In India, `SSO ID <https://gbapps.blog/sso-id/>`_ is especially popular in government portals like 
+In India, `SSO ID Login <https://findfreehelp.com/sso-id-login/>`_ is especially popular in government portals like 
 the Rajasthan SSO platform, where citizens can use a single login 
 for dozens of state services.
+
+.. button-link:: https://findfreehelp.com/sso-id-login/
+   :color: primary
+
+   Click Here
 
 What is SSO ID?
 ---------------
@@ -29,7 +34,7 @@ How SSO Works
 3. Once authenticated, the session grants access to multiple linked applications.
 4. Logging out from one service can log you out from all connected services.
 
-Benefits of `SSO ID <https://gbapps.blog/sso-id/>`_
+Benefits of `SSO ID <https://findfreehelp.com/sso-id-login/>`_
 ------------------
 * **Single Login for Multiple Services** – Saves time and effort.
 * **Enhanced Security** – Centralized authentication reduces weak password risks.
