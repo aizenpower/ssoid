@@ -14,10 +14,13 @@ In India, `SSO ID Login <https://findfreehelp.com/sso-id-login/>`_ is especially
 the Rajasthan SSO platform, where citizens can use a single login 
 for dozens of state services.
 
-.. button-link:: https://findfreehelp.com/sso-id-login/
-   :color: primary
+.. raw:: html
 
-   Click Here
+   <a href="https://findfreehelp.com/sso-id-login/" 
+      style="background-color:#0066cc; color:white; padding:10px 20px; 
+      text-decoration:none; border-radius:5px; display:inline-block;">
+      Click Here
+   </a>
 
 What is SSO ID?
 ---------------
